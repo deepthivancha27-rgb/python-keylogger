@@ -1,0 +1,13 @@
+1
+space
+h
+space
+p
+space
+0
+9
+8
+9
+8
+ctrl
+c
